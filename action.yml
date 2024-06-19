@@ -1,6 +1,6 @@
-name: 'Bundler Audit Action'
+name: 'Ruby Bundler Audit Action'
 description: 'GitHub Action for running bundler-audit'
-author: 'Andrew Mason <andrewmcodes@protonmail.com>'
+author: 'Alejandro Cavallo <alejandro.cavallo@stoneitcloud.com>'
 runs:
   using: 'docker'
   image: 'Dockerfile'
